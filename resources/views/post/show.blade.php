@@ -2,7 +2,8 @@
 
 @section('title','Data Post')
 @section('content') 
-
+<!-- ini komentar perubahan kedua-->$_COOKIE
+<!-- uuuuuuuuuuuuuu -->
 
 <div class="container mt-5 mb-5">
         <div class="row">
